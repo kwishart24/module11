@@ -1,6 +1,6 @@
 <template>
-  <div class="about">
-    <h1>About</h1>
+  <div class="contact">
+    <h1>Contact</h1>
     <GoBack/>
   </div>
 </template>
